@@ -1,0 +1,3 @@
+[submodule "club_website"]
+	path = club_website
+	url = ../club_website
